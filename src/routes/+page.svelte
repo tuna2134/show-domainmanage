@@ -16,7 +16,7 @@
                 <p>{domain} is managed by tuna2134.</p>
                 <p>If you need to contact us, please send email.</p>
             </div>
-            <p>Email: <a class="text-sky-400" href="mailto:me@tuna2134.dev">contact@tuna2134.dev</a></p>
+            <p>Email: <a class="text-sky-400" href="mailto:contact@tuna2134.dev">contact@tuna2134.dev</a></p>
         </div>
     </div>
 </div>
